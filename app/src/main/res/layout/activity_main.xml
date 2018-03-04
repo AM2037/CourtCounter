@@ -69,9 +69,10 @@
 
         </LinearLayout>
 
-        <view
-            android:layout_width="1dp"
-            android:layout_height="match_parent"
+        <View
+            android:layout_width="2dp"
+            android:layout_height="300dp"
+            android:layout_marginTop="20dp"
             android:background="@android:color/darker_gray" />
 
         <LinearLayout
@@ -90,7 +91,7 @@
                 android:text="Team B"
                 android:textSize="14sp"
                 android:textColor="#616161"
-                android:fontFamily="sans-serif-medium"/>
+                android:fontFamily="sans-serif-medium" />
 
             <TextView
                 android:id="@+id/team_b_score"
