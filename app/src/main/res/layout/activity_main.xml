@@ -12,7 +12,7 @@
         android:text="Team A" />
 
     <TextView
-        android:id="@+id/score_team_a"
+        android:id="@+id/team_a_score"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="center"
